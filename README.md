@@ -8,3 +8,5 @@ https://processing.org/
 and download Processing.
 
 Then just double-click 'Project_3_v2Final.pde' and hit Run.
+
+(NOTE: DO NOT change the extracted folder name! Make sure all images, musice, etc. are in a folder named 'Project_3_v2Final'.)
