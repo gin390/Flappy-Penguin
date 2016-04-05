@@ -1,5 +1,5 @@
 # Flappy-Penguin
-A 2D vertical scroller game about a penguin trying to fly. Try not to fall!
+A 2D vertical scroller game about a penguin trying to fly. Try not to fall!\n
 Made using Processing. (NOTE: Not related to "Flappy Bird". But it was a cute name and I am unimaginative, so I took it.)
 
 To play this game, go to:
